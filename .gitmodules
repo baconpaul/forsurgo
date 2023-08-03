@@ -1,0 +1,3 @@
+[submodule "libs/sst-plugininfra"]
+	path = libs/sst-plugininfra
+	url = https://github.com/surge-synthesizer/sst-plugininfra
